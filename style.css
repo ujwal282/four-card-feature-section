@@ -14,7 +14,13 @@ body {
 h1 {
   line-height: 0.9;
   font-weight: 200;
+  color: hsl(234, 12%, 34%)
 }
+
+h3{
+  color: hsl(234, 12%, 34%);
+}
+
 
 .box {
   width: 100%;
